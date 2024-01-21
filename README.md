@@ -14,7 +14,7 @@ iOS app used to track golfers’ swing paths when using a swing detection mat
 * The undo button deletes the user's previous swing
 * The combo button allows the user to choose multiple swing paths for a single swing
   
-<img src="Swing%20Trainer%20Photos/training-screen-1.png" alt="training screen 1" width="20%">    <img src="Swing%20Trainer%20Photos/training-screen-3.png" alt="train screen 3" width="20%">    <img src="Swing%20Trainer%20Photos/training-screen-2.png" alt="train screen 2" width="20%">
+<img src="Swing%20Trainer%20Photos/training-screen-1.png" alt="training screen 1" width="20%">    <img src="Swing%20Trainer%20Photos/training-screen-4.png" alt="train screen 4" width="20%">    <img src="Swing%20Trainer%20Photos/training-screen-2.png" alt="train screen 2" width="20%">
 
 ### Recap Screen
 * The recap screen displays the user's results from the session that just ended
